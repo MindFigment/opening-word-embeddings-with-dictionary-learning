@@ -1,0 +1,12 @@
+# packages in environment at /home/stanislaw/anaconda3/envs/dict_lr:
+#
+# Name                    Version                   Build  Channel
+anaconda-client           1.7.2                    py37_0  
+anaconda-navigator        1.9.12                   py37_1  
+ca-certificates           2020.1.1                      0  
+gst-plugins-base          1.14.0               hbbd80ab_1  
+ld_impl_linux-64          2.33.1               h53a641e_7  
+libgcc-ng                 9.1.0                hdf63c60_0  
+libstdcxx-ng              9.1.0                hdf63c60_0  
+python-dateutil           2.8.1                      py_0  
+scikit-learn              0.23.0                   pypi_0    pypi
